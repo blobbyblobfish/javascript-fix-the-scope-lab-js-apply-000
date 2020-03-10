@@ -1,4 +1,4 @@
-var animal = 'dog'
+var animal = 'cat'
 
 function myAnimal() {
   // You should not need to modify this function
@@ -29,4 +29,4 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
-var theFunk = funkyFunction(funk)
+var theFunk = funkyFunction()
